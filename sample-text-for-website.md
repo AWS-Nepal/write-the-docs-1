@@ -1,23 +1,35 @@
-# My GitHub Pages site
+---
+layout: default
+title: Zero Waste Everyday Veggies
+category: Homsteading
+tags: [Homesteading]
+---
 
-## Basic terminology
+अैले असार २४ को गर्मी छ, असार १५ को रोपाइ सकिएको हुनुपर्छ, म मेरै खेत नगएको अवस्था- यो हप्ता जसरी नि जानु छ।
+तर कौशीमा भने [कम्पोस्टिङ र माटो](https://www.youtube.com/watch?v=Mz5Y1w222iQ) तयार पारे दिउसो।
+असली कुरामा आम्,
 
-You can think of a Git _repository_ as the folder for your project that contains all the component files, such as code, documentation, and examples. You can store your repositories on GitHub, where they can be publicly visible (open source) or be private and only accessible to certain users.
+किचनमा प्रयोग हुने तरकारीहरु - जस्तै लसुन, प्याज, केरा यी सबै हामीले भित्रको खाएर बाहिरको फाल्ने बानी छ, तर जानियो भने फाल्नी त केइ कुरै रहेनछ।
 
-When you start working on a project, you need to make your own _branch_ of a repository, which is a parallel version that contains your changes. As you make modifications, like adding or deleting lines of code or files, you save, or _commit_, your changes.
+कसरी? लौ हेरौ
 
-To propose integrating your commits into the production version of the project, known as the _master branch_, you open a _pull request_. A pull request is the way you start a discussion with others about your changes. Other _collaborators_ on the project can review and approve your work. After your pull request is _merged_, your changes are added to the master branch.
+१। केरा - https://www.youtube.com/watch?v=EIAly8kNomI
+२। लसुन - https://www.youtube.com/watch?v=P2YMZNFY_qo
+३। गाजर- https://www.youtube.com/watch?v=2MOFQUK4yZo
+४। कागती - https://www.youtube.com/watch?v=tk4fUBGD1ak
+५। सुन्तला - https://www.youtube.com/watch?v=icsluMOI1sM
+६। तरकारी बोक्रा - https://www.youtube.com/watch?v=DqI6vevRRPo
+७्। प्याज लसुन बोक्रा - https://www.youtube.com/shorts/QcAqNFd0eb0
 
-You can review the [GitHub Glossary](https://help.github.com/articles/github-glossary/) to learn more about common terms.
+हाम्रो पुर्वज ले धेरै हिट एण्ड ट्रायल गरेर पत्ता लाको यि खानेकुराहरुको बोक्रा चै खान नहुनी भन्नी हुन्छ?
+शहरमा किनेको चै विषादीको कुराले चै बोक्रा खानी र, भन्ने कुरा आउन सक्ला, आफ्नै बारीको त ढुक्क सँग खाए भैगो नि
 
-## General workflow for making a website with GitHub Pages
+अर्को पोस्ट- के को बिउ बिजन, कैले रोप्ने बारेमा - कुनै जुरेको दिन
 
-You can follow these general instructions to make a website with GitHub Pages.
+Disclaimer: मैले जे फलो गर्छु या फलो गर्न जादैछु, त्यो मात्र लेखिरा हुन्छु.
+ I am too lazy to properly format everything. Getting points across, then me happy
 
-1. Create a new repository for your site.
-2. Create a branch to hold your changes.
-2. Add some files for your website. At a minimum, you need a file for the homepage. You can name this file index.md and use markdown formatting, or index.html and add the basic HTML page structure.
-3. Open a pull request to propose adding your changes into the master branch.
-4. Merge files into the master branch.
-5. Go to the repository settings and enable GitHub Pages on the master branch.
-6. Open browser to the page.
+
+
+
+ 
