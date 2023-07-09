@@ -14,19 +14,19 @@ tags: [Homesteading]
 
 कसरी? लौ हेरौ
 
-१। केरा - https://www.youtube.com/watch?v=EIAly8kNomI
+१। [केरा](https://www.youtube.com/watch?v=EIAly8kNomI)
 
-२। लसुन - https://www.youtube.com/watch?v=P2YMZNFY_qo
+२। [लसुन](https://www.youtube.com/watch?v=P2YMZNFY_qo)
 
-३। गाजर- https://www.youtube.com/watch?v=2MOFQUK4yZo
+३। [गाजर](https://www.youtube.com/watch?v=2MOFQUK4yZo)
 
-४। कागती - https://www.youtube.com/watch?v=tk4fUBGD1ak
+४। [कागती](https://www.youtube.com/watch?v=tk4fUBGD1ak)
 
-५। सुन्तला - https://www.youtube.com/watch?v=icsluMOI1sM
+५। [सुन्तला](https://www.youtube.com/watch?v=icsluMOI1sM)
 
-६। तरकारी बोक्रा - https://www.youtube.com/watch?v=DqI6vevRRPo
+६। [तरकारी बोक्रा](https://www.youtube.com/watch?v=DqI6vevRRPo)
 
-७्। प्याज लसुन बोक्रा - https://www.youtube.com/shorts/QcAqNFd0eb0
+७्। [प्याज लसुन बोक्रा](https://www.youtube.com/shorts/QcAqNFd0eb0)
 
 हाम्रो पुर्वज ले धेरै हिट एण्ड ट्रायल गरेर पत्ता लाको यि खानेकुराहरुको बोक्रा चै खान नहुनी भन्नी हुन्छ?
 शहरमा किनेको चै विषादीको कुराले चै बोक्रा खानी र, भन्ने कुरा आउन सक्ला, आफ्नै बारीको त ढुक्क सँग खाए भैगो नि
