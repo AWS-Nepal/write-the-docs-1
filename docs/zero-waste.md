@@ -4,6 +4,7 @@ title: Zero Waste Everyday Veggies
 category: Homsteading
 tags: [Homesteading]
 ---
+![Untitled - Copy](https://github.com/AWS-Nepal/write-the-docs-1/assets/109033173/26eba065-8b58-4a73-85b3-e26e3d25f8d8)
 
 अैले असार २४ को गर्मी छ, असार १५ को रोपाइ सकिएको हुनुपर्छ, म मेरै खेत नगएको अवस्था- यो हप्ता जसरी नि जानु छ।
 तर कौशीमा भने [कम्पोस्टिङ र माटो](https://www.youtube.com/watch?v=Mz5Y1w222iQ) तयार पारे दिउसो।
