@@ -33,7 +33,8 @@ tags: [Homesteading]
 
 अर्को पोस्ट- के को बिउ बिजन, कैले रोप्ने बारेमा - कुनै जुरेको दिन
 
-Disclaimer: मैले जे फलो गर्छु या फलो गर्न जादैछु, त्यो मात्र लेखिरा हुन्छु
+Disclaimer: मैले जे फलो गर्छु या फलो गर्न जादैछु, त्यो मात्र लेखिरा हुन्छु. 
+I am too lazy formatting, my target is to get point across
 
 
  
