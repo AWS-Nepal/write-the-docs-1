@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 title: Zero Waste Everyday Veggies
 category: Homsteading
 tags: [Homesteading]
